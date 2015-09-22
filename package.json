@@ -1,26 +1,39 @@
 {
   "name": "eiscp",
   "version": "0.0.1",
-  "description": "interface to onkyo receivers / eiscp protocol",
+  "private": false,
+  "description": "interface to onkyo (integra) receivers / eiscp protocol",
   "main": "eiscp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tillbaks/node-eiscp"
+    "url": "https://github.com/estbeetoo/eiscp.js"
   },
   "keywords": [
+    "house automation",
     "onkyo",
+    "integra",
     "eiscp",
     "iscp"
   ],
-  "license": "MIT License",
+  "license": "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)",
   "bugs": {
-    "url": "https://github.com/tillbaks/node-eiscp/issues"
+    "url": "https://github.com/estbeetoo/eiscp.js/issues"
   },
   "dependencies": {
       "async":  "*",
       "js-yaml": "*"
+  },
+  "maintainers": [
+  {
+    "name": "aborovsky",
+    "email": "aborovsky@beetoo.me"
+  },
+  {
+    "name": "tillbaks",
+    "email": "tillbaks@unknown.com",
   }
+  ]
 }
