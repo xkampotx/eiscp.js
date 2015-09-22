@@ -23,17 +23,17 @@
     "url": "https://github.com/estbeetoo/eiscp.js/issues"
   },
   "dependencies": {
-      "async":  "*",
-      "js-yaml": "*"
+    "async": "*",
+    "js-yaml": "*"
   },
   "maintainers": [
-  {
-    "name": "aborovsky",
-    "email": "aborovsky@beetoo.me"
-  },
-  {
-    "name": "tillbaks",
-    "email": "tillbaks@unknown.com",
-  }
+    {
+      "name": "aborovsky",
+      "email": "aborovsky@beetoo.me"
+    },
+    {
+      "name": "tillbaks",
+      "email": "tillbaks@unknown.com"
+    }
   ]
 }
